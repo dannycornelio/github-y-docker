@@ -9,3 +9,4 @@ git long
 git reset
 git fetch.
 git branch
+git checkout
