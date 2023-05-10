@@ -8,3 +8,4 @@ git pull origin
 git long
 git reset
 git fetch.
+git branch
