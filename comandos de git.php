@@ -5,3 +5,4 @@ got commit -m
 git satatus
 git push origin
 git pull origin 
+git long
