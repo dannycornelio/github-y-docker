@@ -10,3 +10,4 @@ git reset
 git fetch.
 git branch
 git checkout
+git merge
