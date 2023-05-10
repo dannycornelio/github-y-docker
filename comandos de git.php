@@ -7,4 +7,4 @@ git push origin
 git pull origin 
 git long
 git reset
-git fetch
+git fetch.
