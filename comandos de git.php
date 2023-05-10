@@ -11,3 +11,4 @@ git fetch.
 git branch
 git checkout
 git merge
+git diff
